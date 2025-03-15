@@ -1,4 +1,4 @@
-table{
+/*table{
     border-collapse: collapse;
     width: 100%;
     margin: 30px auto;
@@ -41,4 +41,38 @@ td{
 }
 .w57{
     width: 57%;
+}*/
+.header {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.table {
+    width: 650px;
+    height: 650px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+.table td {
+    border: 13px solid black;
+}
+.red {
+    background-color: rgb(221, 9, 9);
+}
+.blue {
+    background-color: rgb(8, 8, 196);
+}
+.yellow {
+    background-color: rgb(217, 217, 53);
+}
+.black {
+    background-color: black;
+}
+.white {
+    background-color: rgb(240, 240, 240);
 }
