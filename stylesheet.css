@@ -1,0 +1,44 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 30px auto;
+}
+td{
+    border: 1px solid black;
+    height: 75px;
+    width: 14.2%;
+}
+.w5h75{
+    width: 5%;
+    height: 50px;
+}
+.w24{
+    width: 24%;
+}
+.w31{
+    width: 31%;
+}
+.w40{
+    width: 40%;
+}
+.w52{
+    width: 52%;
+}
+.w12{
+    width: 12%;
+}
+.w31{
+    width: 31%;
+}
+.w15{
+    width: 15.5%;
+}
+.w26{
+    width: 26%;
+}
+.w5{
+    width: 5%;
+}
+.w57{
+    width: 57%;
+}
