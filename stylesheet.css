@@ -42,14 +42,6 @@ td{
 .w57{
     width: 57%;
 }*/
-.header {
-    font-family: Arial, sans-serif;
-    font-size: 20px;
-    text-align: center;
-    font-weight: 700;
-    text-decoration: underline;
-    text-transform: uppercase;
-}
 .table {
     width: 650px;
     height: 650px;
